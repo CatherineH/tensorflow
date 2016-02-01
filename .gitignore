@@ -10,3 +10,11 @@ node_modules
 /tools/bazel.rc
 /util/python/python_include
 /util/python/python_lib
+
+tensorflow/examples/udacity/.ipynb_checkpoints/
+tensorflow/examples/udacity/1_notmnist.py
+tensorflow/examples/udacity/notMNIST_large.tar.gz
+tensorflow/examples/udacity/notMNIST_large/
+tensorflow/examples/udacity/notMNIST_small.tar.gz
+tensorflow/examples/udacity/notMNIST_small/
+
